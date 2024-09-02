@@ -8,7 +8,7 @@ metadata:
   #annotations:
       #argocd.argoproj.io/hook: PostSync
   annotations:
-    argocd.argoproj.io/hook: PostSynx
+    argocd.argoproj.io/hook: PostSync
 spec:
   template:
     spec:
